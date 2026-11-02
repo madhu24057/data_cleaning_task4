@@ -1,0 +1,9 @@
+CustomerID,CustomerName,Region,Sales,Date,Status
+101,  alice smith ,North,250.5,2026-01-15,Active
+102,BOB JONES,south,,2026-01-16,Pending
+101,  alice smith ,North,250.5,2026-01-15,Active
+103,charlie brown,East,450.0,2026-01-17,active
+104,DIANA PRINCE,West,,2026-01-18,Inactive
+105,  evan wright ,North,320.0,2026-01-19,Active
+103,charlie brown,East,450.0,2026-01-17,active
+106,FIONA GALLAGHER,South,510.5,2026-01-20,PENDING
